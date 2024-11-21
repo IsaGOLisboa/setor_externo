@@ -1,0 +1,48 @@
+# Ignorar arquivos grandes adicionais
+202410_Tabelas_de_estatisticas_do_setor_externo\202410_Tabelas_de_estatisticas_do_setor_externo (1).xlsx
+202410_Tabelas_de_estatisticas_do_setor_externo (1).xlsx
+RELATORIO_DADOS_DE_MERCADO (B3) - dados_export.csv
+planilhas_verificadas/unctad_world_investment_report_selected_fdi_flows.csv
+planilhas_verificadas/investimentos_estrangeiros_verificado.xlsx
+planilhas_verificadas/investimentos_estrangeiros_verificado.csv
+planilhas_verificadas/Foreingn direct investiments for countries.xlsx
+# Ignorar arquivos grandes
+planilhas_verificadas/API_BN.GSR.GNFS.CD_DS2_en_csv_v2_3838/
+planilhas_verificadas/API_NY.GDP.PCAP.CD_DS2_en_csv_v2_142/
+
+# Ignorar ambientes virtuais
+externo_venv/
+# Ignorar arquivos grandes da pasta "Estatísticas do Setor Financeiro"
+Estatisticas do setor financeiro/BCB_2020_xlsx/
+Estatisticas do setor financeiro/BCB_2019_xlsx/
+Estatisticas do setor financeiro/BCB_2018_xlsx/
+# Ignorar arquivos grandes adicionais
+dfs_ETL/ICA.csv
+dfs_ETL/ICP.csv
+dfs_ETL/IDP.csv
+dfs_ETL/outros_investimentos_passivos.csv
+dfs_ETL/balanco.csv
+dfs_ETL/derivativos.csv
+planilhas_verificadas/dados_macro.csv
+planilhas_verificadas/EFFR.csv
+planilhas_verificadas/comparacao_idp.xlsx
+planilhas_verificadas/dados_invest_macro.csv
+Tabelas_rel/TabelasCompletasPosicaoIDP (1).xlsx
+Renda Primária Investidor Externo.xlsx
+Tabelas_rel/
+balanco.csv
+balanco_anual.csv
+balanco_anual.xlsx
+balanco_anual_subgrupos.xlsx
+balanco_aunal.xlsx
+fluxo_anula_idp.xlsx
+grafico barras bidirecionais.png
+grafico_barras_tipo_investimento.png
+Estatisticas do setor financeiro/BCB_2017_xls/
+Estatisticas do setor financeiro/BCB_2016_xls/
+Estatisticas do setor financeiro/BCB_2015_xls/
+Estatisticas do setor financeiro/BCB_2014_xls/
+Estatisticas do setor financeiro/BCB_2024_xlsx/
+Estatisticas do setor financeiro/BCB_2023_xlsx/
+Estatisticas do setor financeiro/BCB_2022_xlsx/
+Estatisticas do setor financeiro/BCB_2021_xlsx/
